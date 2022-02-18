@@ -9,7 +9,6 @@ def main():
 		devRandom(limiter)
 	except ValueError:
 		print('Error: Value entered is not an integer')
-	
 
 
 main()
